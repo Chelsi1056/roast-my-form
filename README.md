@@ -1,23 +1,11 @@
-# 🔥 roast-my-form
-
-```
-$ whoami
-> AI Biomechanics Coach powered by Gemini Vision
-
-$ ./roast_my_form.sh --exercise squat --intensity savage
-[INFO] Booting FormCoach-AI...
-[INFO] Loading GEMINI_API_KEY from .streamlit/secrets.toml...
-[INFO] Camera stream initialized...
-[INFO] Frame captured. Sending to gemini-3.6-flash...
-[CHECK] Image validity: PASS — starting posture matches squat
-[WARN] Knee valgus detected on frame 1.
-[WARN] Anterior pelvic tilt: MODERATE.
-[ROAST] "Your knees are caving in like a bad Wi-Fi signal. Fix it before you fix nothing else."
-[OK] Score: 4/10 | Injury Risk: Medium
-$ _
-```
 
 > Point a camera at your starting posture. Get roasted. Get corrected. Get stronger.
+
+---
+
+## 🌐 Live Demo
+
+🚀 **[Try Roast My Form Live](https://roast-my-form-ckahdthq4bd3i6ajtebfaj.streamlit.app/)**
 
 ---
 
